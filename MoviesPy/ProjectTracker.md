@@ -3,7 +3,7 @@
  | Due Date |  Status | Task |  Details |
  |:------: | :-----: | :-- | :-- |
  | Thu, Dec-01 | &check; | Dataset | Team reviews datasets and finalizes     
- | Sun, Dec-04 | &check | Task assignment | Visualizations, work units and responsible party; base code in GitHUB shared for Collaboration  
+ | Sun, Dec-04 | &check; | Task assignment | Visualizations, work units and responsible party; base code in GitHUB shared for Collaboration  
  | Mon, Dec-05 |  | Group work in class | Work on visualizations              
  | Tue, Dec-06 |  | Individual work | Work on individual visuals; start preparing points for slides
  | Wed, Dec-07 |  | Continue work| Target to complete individual charts before start of class on Thursday

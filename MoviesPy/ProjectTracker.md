@@ -3,14 +3,14 @@
  | Due Date |  Status | Task |  Details |
  |:------: | :-----: | :-- | :-- |
  | Thu, Dec-01 | &check; | Dataset | Team reviews datasets and finalizes     
- | Sun, Dec-04 |  | Task assignment | Visualizations, work units and responsible party; GitHUB Collaboration creation  
+ | Sun, Dec-04 | &check | Task assignment | Visualizations, work units and responsible party; base code in GitHUB shared for Collaboration  
  | Mon, Dec-05 |  | Group work in class | Work on visualizations              
- | Tue, Dec-06 |  | Individual work | Work on individual visuals; start preparing slides for individual work
- | Wed, Dec-07 |  | |
- | Thu, Dec-08 |  | |
- | Fri, Dec-09 |  | |
- | Sat, Dec-10 |  | |
- | Sun, Dec-11 |  | Final group meet | Merge code and PP; go over slides and presentation as a group
+ | Tue, Dec-06 |  | Individual work | Work on individual visuals; start preparing points for slides
+ | Wed, Dec-07 |  | Continue work| Target to complete individual charts before start of class on Thursday
+ | Thu, Dec-08 |  | Group work in class| Review individual work and merge code after finalization
+ | Fri, Dec-09 |  | Presentation preparation| Prepare slides in Google Presentation slides (shared link)
+ | Sat, Dec-10 |  | Continue work| Finalize all individual units
+ | Sun, Dec-11 |  | Final group meet | Merge code(any additions/corrections) and PP; go over slides and presentation as a group
  | Mon, Dec-12 |  | Class | Present work to class
  
  

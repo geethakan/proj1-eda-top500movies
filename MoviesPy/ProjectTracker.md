@@ -1,7 +1,7 @@
 ### Top 500 Movies (1991 thru 2022) - Project Plan
 
  | Due Date |  Status | Task |  Details |
- |:------: | :-----: | :-- | :-- |
+ |:-----------: | :-----: | :-- | :-- |
  | Thu, Dec-01  | &check; | Dataset | Team reviews datasets and finalizes     
  | Sun, Dec-04  | &check; | Task assignment | Visualizations, work units and responsible party; base code in GitHUB shared for Collaboration  
  | Mon, Dec-05  |  | Group work in class | Work on visualizations              

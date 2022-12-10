@@ -4,13 +4,13 @@
  |:-----------: | :-----: | :-- | :-- |
  | Thu, Dec-01  | &check; | Dataset | Team reviews datasets and finalizes     
  | Sun, Dec-04  | &check; | Task assignment | Visualizations, work units and responsible party; base code in GitHUB shared for Collaboration  
- | Mon, Dec-05  |  | Group work in class | Work on visualizations              
- | Tue, Dec-06  |  | Individual work | Work on individual visuals; start preparing points for slides
- | Wed, Dec-07  |  | Continue work| Target to complete individual charts before start of class on Thursday
- | Thu, Dec-08  |  | Group work in class| Review individual work and merge code after finalization
- | Fri, Dec-09  |  | Presentation preparation| Prepare slides in Google Presentation slides (shared link)
- | Sat, Dec-10  |  | Continue work| Finalize all individual units
- | Sun, Dec-11  |  | Final group meet | Merge code(any additions/corrections) and PP; go over slides and presentation as a group
+ | Mon, Dec-05  | &check; | Group work in class | Work on visualizations              
+ | Tue, Dec-06  | &check; | Individual work | Work on individual visuals; start preparing points for slides
+ | Wed, Dec-07  | &check; | Continue work| Target to complete individual charts before start of class on Thursday
+ | Thu, Dec-08  | &check; | Complete code | Goal - complete all visuals. Ended in completion of code and presentation slides
+ | Fri, Dec-09  |  &check;| Complete presentation slides | Started document and rehearsed group presentation. Way ahead of target. Good Teamwork!
+ | Sat, Dec-10  |  | Complete report | Bells and whistles to presentation and finalize report
+ | Sun, Dec-11  |  | Final group meet | Rehearsed as a group on Friday - Way ahead of target. Good Teamwork! (no meetup)
  | Mon, Dec-12  |  | Class | Present work to class
  
  
